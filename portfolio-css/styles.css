@@ -1,12 +1,30 @@
 .introduction {
-  font-size: 40;
+  font-size: 60px;
   font-style: italic;
   font-weight: bold;
   text-align: center;
-  color:blue;
 }
 .author {
-  font-size: 20;
+  font-size: 30px;
   font-style: italic;
-
+  text-align: center;
+}
+.paragraph {
+  font-size: 20px;
+  font-family: sans-serif;
+  font-style: italic;
+}
+body {
+  background-color: gray;
+}
+.home img {
+  float: left;
+  margin-right: 50px;
+}
+.me {
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+  font-style: italic;
+  clear:both;
 }
